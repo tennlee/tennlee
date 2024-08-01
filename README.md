@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tennlee
 - Maintainer of [scores](https://github.com/nci/scores)
 - I’m interested in data science, machine learning, weather and climate modelling and open source code
-- I’m currently learning about programming in go
 - I’m looking to collaborate on verification and machine learning projects
 - Pronouns: he/him
 
